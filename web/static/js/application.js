@@ -12,4 +12,4 @@ const target = document.getElementById('main_container');
 const node = <Root routerHistory = {browserHistory} store = {store}/>;
 
 
-ReactDOM.rebder(node, target);
+ReactDOM.render(node, target);
